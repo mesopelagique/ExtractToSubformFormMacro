@@ -1,7 +1,10 @@
 {
 	"macros": {
-		"Extract to subform": {
-			"class": "ExtractToSubForm"
+		"Copy to new subform": {
+			"class": "CopyToNewSubForm"
+		},
+		"Replace by subform content": {
+			"class": "ReplaceBySubFormContent"
 		}
 	}
 }

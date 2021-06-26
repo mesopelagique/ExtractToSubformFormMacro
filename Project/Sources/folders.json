@@ -1,21 +1,9 @@
 {
-	"(Default Classes)": {},
-	"(Default Folder)": {
-		"groups": [
-			"(Default Classes)",
-			"(Default Forms)",
-			"(Default Project Methods)",
-			"(Default Tables)"
+	"test": {
+		"forms": [
+			"TestForm",
+			"TestSubForm"
 		]
 	},
-	"(Default Forms)": {},
-	"(Default Project Methods)": {},
-	"(Default Tables)": {},
-	"(test)": {},
-	"trash": {
-		"groups": [
-			"(Default Folder)",
-			"(test)"
-		]
-	}
+	"trash": {}
 }

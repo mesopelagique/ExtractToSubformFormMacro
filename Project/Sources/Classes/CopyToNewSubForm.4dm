@@ -1,6 +1,6 @@
 
 Class constructor
-	This:C1470.label:="Extract to subform"
+	This:C1470.label:="Copy to new subform"
 	
 Function onInvoke($editor : Object)->$result : Object
 	
