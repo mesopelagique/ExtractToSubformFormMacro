@@ -23,7 +23,7 @@ All first page objects from subform will be copyed to your current form, and the
 ## TODO
 
 - manage group, page etc
-- find a way to reload forms:  ask to restart? (because bnew subform are not displayed without restart)
+- find a way to reload forms: ask to restart? (because new subform seems to not be displayed without restarting)
  
 
 ## Other components
